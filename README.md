@@ -1,55 +1,54 @@
 # 🚀 Portfólio de Engenharia de Software - Guilherme Brito Andrade
 
-Bem-vindo(a) ao meu portfólio! 👋
-
-Sou **Guilherme Brito Andrade**, estudante de Engenharia de Software no CEUB – campus Taguatinga. Este espaço é uma seleção dos meus principais projetos desenvolvidos ao longo da graduação, mostrando o que venho aprendendo e aplicando na prática com código, design e organização de ideias.
-
-Minha paixão por tecnologia me impulsiona a buscar soluções criativas e a evoluir constantemente minhas habilidades técnicas e interpessoais. Além dos estudos, minha atuação como Secretário do DCE Mova-se me permite desenvolver importantes competências de liderança e organização.
+Olá! 👋 Eu sou **Guilherme Brito**, estudante de **Engenharia de Software no CEUB** e participante do **Bootcamp PortfolioHUB + IA GEMINI**.  
+Este repositório é a minha vitrine de projetos e aprendizados, mostrando minha evolução como desenvolvedor e minha vontade de botar a mão na massa!
 
 ---
 
-## ✨ Projetos em Destaque
+## 🎯 Objetivos e Perfil Profissional
 
-| Projeto | Descrição | Tecnologias | Detalhes |
-| :-------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Striker Fit** | E-commerce fitness com foco em UX, prototipado e modelado no Seminário IV. | `Figma`, `QuantUX` | [Ver Detalhes do Projeto](projetos/striker-fit/README.md) **|** [Ver Protótipo Interativo](https://app.quant-ux.com/#/test.html?h=a2aa10aKeoYoqOwGIJBUk2P2m74rOOkN6y6KR4mT7CCPYWu0o3p8gDVD0zNe&ln=en) |
-| **PortfolioHUB + Gemini IA** | Plataforma para reunir projetos com integração entre GitHub e Google Sites. | `GitHub`, `Google Sites`, `Gemini IA` | [Ver Detalhes do Projeto](projetos/portfoliohub-gemini/README.md) **|** [Acessar Site Online](https://sites.google.com/view/portfliohubguilhermebrito/p%C3%A1gina-inicial) |
-| **Desafio GitHub + LinkedIn** | Repositório documentado com boas práticas e integração com o LinkedIn. | `Markdown`, `Git`, `LinkedIn` | [Ver Detalhes do Projeto](projetos/desafio-github-linkedin/README.md) **|** [Acessar Documento](https://docs.google.com/document/d/15bAKn_zEYCXfNZyC9cGMRPbbBRxHaW5Ia9-mzNaMNbY/edit?usp=sharing) |
-
----
-
-## 🛠️ Habilidades e Ferramentas
-
-* **Linguagens:** ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-* **Banco de Dados:** ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-* **Ferramentas:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Google Sites](https://img.shields.io/badge/Google%20Sites-4285F4?style=for-the-badge&logo=googlesites&logoColor=white) ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white) ![QuantUX](https://img.shields.io/badge/QuantUX-50346B?style=for-the-badge&logo=QuantUX&logoColor=white)
-* **IA Generativa:** ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-* **Cloud:** ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) (iniciante)
-* **Metodologias:** Scrum (básico), Design Thinking
+- Aplicar meus conhecimentos em tecnologias como **C#**, **MySQL** e **Java** para resolver problemas reais e criar soluções com impacto.
+- Minha paixão por tecnologia me impulsiona a buscar **soluções criativas** e a evoluir constantemente minhas **habilidades técnicas e interpessoais**.
+- Além dos estudos, minha atuação como **Secretário do DCE Mova-se do CEUB** me permite desenvolver competências de **liderança**, **organização** e **trabalho em equipe**.
+- Estou em busca de oportunidades de **estágio na área de tecnologia**, com foco em aprendizado prático e crescimento profissional.
 
 ---
 
-## 📈 Próximos Passos e Áreas de Interesse
+## 🚀 Projetos e Atividades
 
-No momento, estou me aprofundando em:
+Aqui estão alguns dos meus projetos mais relevantes até agora:
 
-* Desenvolvimento front-end
-* Banco de dados relacional
-* Aprendizado de frameworks como React
-* Aplicações práticas com Inteligência Artificial
+### 🛒 [Striker Fit - Plataforma E-commerce Fitness](https://app.quant-ux.com/#/test.html?h=a2aa10aKeoYoqOwGIJBUk2P2m74rOOkN6y6KR4mT7CCPYWu0o3p8gDVD0zNe&ln=en)
+- **Tecnologias/Etapas:** Protótipo, UX, modelagem de dados e requisitos
+- **Descrição:** Projeto inspirado na Centauro, desenvolvido como parte do Seminário IV. Contém protótipos de telas, fluxo de navegação e mapeamento funcional.
+- **Status:** Finalizado
+
+### 📌 [Desafio GitHub + LinkedIn](https://docs.google.com/document/d/15bAKn_zEYCXfNZyC9cGMRPbbBRxHaW5Ia9-mzNaMNbY/edit?usp=sharing)
+- **Descrição:** Repositório criado para desenvolver e organizar meu perfil profissional e meus repositórios públicos no GitHub e LinkedIn. Parte do desafio intermediário do bootcamp.
+- **Status:** Concluído
+
+### 🌐 [PortfolioHUB - Meu Portfólio Pessoal](https://sites.google.com/d/1cBUXimGSskmwRGhS2yEpG6-Ajrwk6KY-/p/1qAIl1CSAzD4zXd2AQy1vRDhWe_y5mare/edit)
+- **Tecnologias:** Google Sites + Integração com GitHub
+- **Descrição:** Uma central dos meus trabalhos, com navegação por projeto, currículo, certificados e links úteis.
+- **Status:** Em construção constante 🚧
 
 ---
 
-## ✉️ Contato
+## 🛠️ Habilidades Técnicas
 
-Quer trocar uma ideia ou conhecer mais sobre algum projeto? Sinta-se à vontade para me contatar:
-
-* 📧 Email: [guilhermebritoandrade17@gmail.com](mailto:guilhermebritoandrade17@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/guilherme-brito-andrade-090b81348](https://www.linkedin.com/in/guilherme-brito-andrade-090b81348/)
-* 🌐 PortfolioHUB: [Acessar site](https://sites.google.com/view/portfliohubguilhermebrito/p%C3%A1gina-inicial)
+- **Linguagens:** `C#`, `Java`, `SQL (MySQL Workbench)`
+- **Ferramentas:** `Git`, `GitHub`, `VS Code`, `Google Workspace`, `Quant-UX`
+- **Conceitos:** Lógica de Programação, Prototipação, Modelagem de Dados, Comunicação Ágil
 
 ---
 
-_Obrigado por visitar meu portfólio! 🚀_
+## 📞 Contato
 
-_Última atualização: 24 de maio de 2025_
+Quer bater um papo, tirar dúvidas ou colaborar em algum projeto?
+
+- 💼 **LinkedIn:** [linkedin.com/in/guilherme-brito-andrade-090b81348](https://www.linkedin.com/in/guilherme-brito-andrade-090b81348/)
+- 📧 **Email:** [guilhermebritoandrade17@gmail.com](mailto:guilhermebritoandrade17@gmail.com)
+
+---
+
+_Obrigado por visitar o meu Portfólio!_
