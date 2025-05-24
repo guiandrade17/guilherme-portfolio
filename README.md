@@ -27,7 +27,7 @@ Aqui estão alguns dos meus projetos mais relevantes até agora:
 - **Descrição:** Repositório criado para desenvolver e organizar meu perfil profissional e meus repositórios públicos no GitHub e LinkedIn. Parte do desafio intermediário do bootcamp.
 - **Status:** Concluído
 
-### 🌐 [PortfolioHUB - Meu Portfólio Pessoal](https://sites.google.com/d/1cBUXimGSskmwRGhS2yEpG6-Ajrwk6KY-/p/1qAIl1CSAzD4zXd2AQy1vRDhWe_y5mare/edit)
+### 🌐 [PortfolioHUB - Meu Portfólio Pessoal](https://sites.google.com/view/portfliohubguilhermebrito/p%C3%A1gina-inicial)
 - **Tecnologias:** Google Sites + Integração com GitHub
 - **Descrição:** Uma central dos meus trabalhos, com navegação por projeto, currículo, certificados e links úteis.
 - **Status:** Em construção constante 🚧
