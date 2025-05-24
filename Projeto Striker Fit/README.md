@@ -1,4 +1,4 @@
-# 🛒 Striker Fit - E-commerce Fitness 
+# 🛒 Striker Fit - E-commerce Fitness (Prototipagem UX/UI)
 
 ---
 
@@ -25,9 +25,7 @@ Este protótipo apresenta as seguintes funcionalidades e pontos de destaque:
 
 Este projeto foi construído utilizando as seguintes ferramentas:
 
-* ![QuantUX](https://img.shields.io/badge/QuantUX-50346B?style=for-the-badge&logoColor=white) (Para prototipagem interativa de alta fidelidade e testes de usabilidade)
-* ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) (Para wireframing e design de componentes)
-* [Mencione conceitos relevantes: Modelagem de Dados, UX Research, Design Thinking, etc.]
+* ![QuantUX](https://img.shields.io/badge/QuantUX-50346B?style=for-the-badge&logo=QuantUX&logoColor=white) (Para prototipagem interativa de alta fidelidade e testes de usabilidade)
 
 ---
 
@@ -43,17 +41,13 @@ Este projeto foi fundamental para **consolidar minha compreensão sobre a import
 
 ---
 
-## 🖼️ Visualização do Projeto
+## 📊 Resultados e Conclusão
 
-Aqui estão algumas telas e interações do protótipo **Striker Fit**:
+. O protótipo do Striker Fit foi bem recebido e demonstrou um potencial significativo para escalabilidade e engajamento do usuário.
 
-* **Visão Geral do E-commerce (Tela Inicial)**
-    ![Captura de tela da página inicial do Striker Fit no QuantUX](assets/striker-fit-tela-inicial.png)
-    *(Dica: Substitua `assets/striker-fit-tela-inicial.png` pelo caminho real da sua imagem no repositório. Você pode arrastar e soltar a imagem na área de edição do README.md no GitHub, e ele irá gerar o link e o caminho automaticamente. Crie uma pasta `assets` dentro de `projetos/striker-fit` para organizar suas imagens.)*
+. O feedback dos professores e colegas destacou a clareza da navegação e a atenção aos detalhes no design.
 
-* **Exemplo de Fluxo de Compra (Carrinho e Checkout)**
-    ![Screenshot do Carrinho de Compras do Striker Fit](assets/striker-fit-carrinho.png)
-    *(Adicione mais imagens ou um GIF que mostre a navegação ou alguma interação chave, se tiver!)*
+. Este projeto reforça minha capacidade de transformar ideias em soluções visuais concretas e funcionais, com uma forte orientação para a experiência do usuário.
 
 ---
 
