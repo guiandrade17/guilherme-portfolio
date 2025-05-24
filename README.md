@@ -1,6 +1,3 @@
-# guilherme-portfolio
-Portfólio profissional e acadêmico de Guilherme Brito Andrade
-
 # 🚀 Portfólio de Engenharia de Software - Guilherme Brito Andrade
 
 Bem-vindo(a) ao meu portfólio! 👋
@@ -15,7 +12,7 @@ Minha paixão por tecnologia me impulsiona a buscar soluções criativas e a evo
 
 | Projeto | Descrição | Tecnologias | Detalhes |
 | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Striker Fit** | E-commerce fitness com foco em UX, prototipado e modelado no Seminário IV. | `Figma`, `Canva`, `HTML` | [Ver Detalhes do Projeto](projetos/striker-fit/README.md) **|** [Ver Protótipo Online](https://app.quant-ux.com/#/test.html?h=a2aa10eKeoYoqOwGIJBUk2P2m74rOOkN6y6KR4mT7CCPYWu0o3p8gDVD0zNe&ln=en) |
+| **Striker Fit** | E-commerce fitness com foco em UX, prototipado e modelado no Seminário IV. | `Figma`, `QuantUX` | [Ver Detalhes do Projeto](projetos/striker-fit/README.md) **|** [Ver Protótipo Interativo](https://app.quant-ux.com/#/test.html?h=a2aa10aKeoYoqOwGIJBUk2P2m74rOOkN6y6KR4mT7CCPYWu0o3p8gDVD0zNe&ln=en) **|** [Ver Telas de Design](https://app.quant-ux.com/#/share.html?h=a2aa10aKeoYoqOwGIJBUk2P2m74rOOkN6y6KR4mT7CCPYWu0o3p8gDVD0zNe) |
 | **PortfolioHUB + Gemini IA** | Plataforma para reunir projetos com integração entre GitHub e Google Sites. | `GitHub`, `Google Sites`, `Gemini IA` | [Ver Detalhes do Projeto](projetos/portfoliohub-gemini/README.md) **|** [Acessar Site Online](https://sites.google.com/d/1cBUXimGSskmwRGhS2yEpG6-Ajrwk6KY-/p/1qAIl1CSAzD4zXd2AQy1vRDhWe_y5mare/edit) |
 | **Desafio GitHub + LinkedIn** | Repositório documentado com boas práticas e integração com o LinkedIn. | `Markdown`, `Git`, `LinkedIn` | [Ver Detalhes do Projeto](projetos/desafio-github-linkedin/README.md) **|** [Acessar Documento](https://docs.google.com/document/d/15bAKn_zEYCXfNZyC9cGMRPbbBRxHaW5Ia9-mzNaMNbY/edit?usp=sharing) |
 
@@ -24,7 +21,7 @@ Minha paixão por tecnologia me impulsiona a buscar soluções criativas e a evo
 ## 🛠️ Habilidades e Ferramentas
 
 * **Linguagens:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) (iniciante)
-* **Ferramentas:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Google Sites](https://img.shields.io/badge/Google%20Sites-4285F4?style=for-the-badge&logo=googlesites&logoColor=white) ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+* **Ferramentas:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Google Sites](https://img.shields.io/badge/Google%20Sites-4285F4?style=for-the-badge&logo=googlesites&logoColor=white) ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white) ![QuantUX](https://img.shields.io/badge/QuantUX-50346B?style=for-the-badge&logoColor=white)
 * **IA Generativa:** ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 * **Cloud:** ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) (iniciante)
 * **Metodologias:** Scrum (básico), Design Thinking
@@ -48,7 +45,7 @@ Quer trocar uma ideia ou conhecer mais sobre algum projeto? Sinta-se à vontade 
 
 * 📧 Email: [guilhermebritoandrade17@gmail.com](mailto:guilhermebritoandrade17@gmail.com)
 * 💼 LinkedIn: [linkedin.com/in/guilherme-brito-andrade-090b81348](https://www.linkedin.com/in/guilherme-brito-andrade-090b81348/)
-* 🌐 PortfolioHUB: [Acessar site](https://sites.google.com/d/1cBUXimGSskmwRGhS2yEpG6-Ajrwk6KY-/p/1qAIl1CSAzD4zXd2AQy1vRDhWe_y5mare/edit)
+* 🌐 PortfolioHUB: [Acessar site](https://sites.google.com/d/1cBUXimGSskmwRGhS2yEpG6-Ajrwk6KY-/p/1qAI1CSAzD4zXd2AQy1vRDhWe_y5mare/edit)
 
 ---
 
